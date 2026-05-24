@@ -1,0 +1,35 @@
+Hãy nhớ các thông tin tôi chuẩn bị gửi : POS_PROJECT/
+├── config/
+│   └── db.js
+│
+├── controller/
+│   ├── admin/
+│   │   └── (sau này: productController.js, reportController.js...)
+│   └── staff/
+│       └── staffController.js
+│
+├── routes/
+│   ├── admin/
+│   │   └── (sau này: productRoutes.js...)
+│   └── staff/
+│       └── staffRoutes.js
+│
+├── public/
+│   ├── admin/
+│   │   ├── css/
+│   │   └── js/
+│   └── staff/
+│       ├── css/
+│       │   └── style.css
+│       └── js/
+│           └── script.js
+│
+├── views/
+│   ├── admin/
+│   │   └── (sau này: dashboard.html...)
+│   └── staff/
+│       └── login.html
+│
+├── node_modules/
+├── index.js
+└── package.json  

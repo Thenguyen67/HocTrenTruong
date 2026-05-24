@@ -1,0 +1,8 @@
+- <a href = "https://github.com/Thenguyen67/HTML/tree/main" >Ấn vào đây</a>
+  Đây là cách để truy cập một liên kết thông qua một dòng text. Click vào thì trang hiện tại sẽ chuyển sang trang liên kết
+
+- <a href = "https://github.com/Thenguyen67/HTML/tree/main" target="_blank">Ấn vào đây</a> 
+  Thêm target="_blank" thì click vào sẽ bật thêm một tab và hiển thị trang liên kết ở đó
+
+- <a href = "../Bai1.html" >Ấn vào đây</a>
+  Nếu muốn truy cập file 
