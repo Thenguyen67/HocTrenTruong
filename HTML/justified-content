@@ -1,9 +1,0 @@
-justified-content
-justified-content dùng để căn chỉnh vị trí của các items so với trục chính(main axis). Có 6 giá trị có thể dùng đối với thuộc tính justified-content:
-
-flex-start: sẽ đặt item bắt đầu từ main start (và đây cũng là giá trị mặc định)
-flex-end:sẽ đặt item bắt đầu từ main end
-center: sẽ đặt tất cả item ở giữa trục main axis
-space-between: sẽ chia đều khoảng cách thừa và thêm nó vào giữa các item
-space-around: sẽ chia khoảng cách ở đầu và cuối. Khoảng cách ở đầu và cuối sẽ bằng 1 nửa khoảng cách ở giữa 2 item với nhau
-space-evenly: sẽ chia khoảng cách đều khoảng cách giữa các item với item, item và main start, item với main end bằng nhau

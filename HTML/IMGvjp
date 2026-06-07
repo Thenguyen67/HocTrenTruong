@@ -1,7 +1,0 @@
-<img src = "../IMG/anh-bao-tri.jpg.webp">
-- height = "...px" width = "...px" 
-- alt = "..." (Chỉ có tác dụng khi img bị lỗi)
-- tittle = "..." (Di chuột vào ảnh sẽ hiển thị)
-
-- Có thể thông qua img để truy cập liên kết 
-<a href = "https://dantri.com.vn/phap-luat.htm><img src = "../IMG/anh-bao-tri.jpg.webp"></a> 
