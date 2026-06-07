@@ -1,8 +1,0 @@
-const dbMembers = {
-    'VIP01': { id: 'VIP01', name: 'Trần Đại Quang', rank: 'VIP', discountRate: 0.10, points: 50, color: 'from-yellow-400 to-yellow-600' },
-    'VIP02': { id: 'VIP02', name: 'Phạm Nhật Vượng', rank: 'VIP', discountRate: 0.10, points: 1250, color: 'from-yellow-400 to-yellow-600' },
-    'NOR01': { id: 'NOR01', name: 'Lê Thị Hoa', rank: 'Thân thiết', discountRate: 0.05, points: 15, color: 'from-blue-400 to-blue-600' },
-    'NOR02': { id: 'NOR02', name: 'Nguyễn Thị Bích', rank: 'Thân thiết', discountRate: 0.05, points: 8, color: 'from-blue-400 to-blue-600' },
-    'NEW01': { id: 'NEW01', name: 'Lê Văn Luyện', rank: 'Thành viên mới', discountRate: 0.00, points: 0, color: 'from-gray-400 to-gray-600' },
-    'NEW02': { id: 'NEW02', name: 'Trần Thanh Sơn', rank: 'Thành viên mới', discountRate: 0.00, points: 2, color: 'from-gray-400 to-gray-600' }
-};
